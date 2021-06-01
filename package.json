@@ -1,0 +1,21 @@
+{
+  "name": "nodeexcercise",
+  "version": "1.0.0",
+  "description": "To solve the excercise given in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Ogunbanwo Afolabi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "prompt": "^1.1.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
